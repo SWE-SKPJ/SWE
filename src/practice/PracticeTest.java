@@ -9,7 +9,7 @@ public class PracticeTest {
     }
   
     @Test
-    public void testSubtract() {
+    public void testSubtract1() {
         Practice p = new Practice();
         assertEquals(1, p.subtract(3, 2));
     }
